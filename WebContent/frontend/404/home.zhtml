@@ -1,0 +1,29 @@
+<section xmlns:n="native" xmlns:zk="zk" xmlns:z="zul" xmlns:w="client" apply="org.zkoss.bind.BindComposer"
+viewModel="@id('vm') @init('vn.toancauxanh.cms.service.VanBanService')">
+	<style>
+		.z-combobox-input{
+			height:34px !important;
+			width: calc(100% - 24px) !important;
+		}
+		.z-combobox{
+			width: 100% !important;
+		}
+		.z-combobox-button{
+			height:34px !important;
+			line-height: 24px !important;
+		}
+		.z-comboitem-text{
+			
+		}
+	</style>
+	<zscript><![CDATA[
+	                  
+	]]></zscript>
+      <p class="date-now">Thứ Sáu, ngày 13 tháng 7 năm 2018 | 15:14 GMT+7</p>
+      <div class="row">
+		
+        <div class="col-md-12 fixpadding-left">
+			<h1>Đường dẫn này không tồn tại</h1>
+         </div>
+      </div>
+</section>
